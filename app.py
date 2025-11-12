@@ -90,7 +90,7 @@ div.stButton > button:first-child:hover {
     transform: translateY(-2px);
 }
 
-/* *** નવો ફેરફાર: ડાઉનલોડ બટનનો કલર *** */
+
 div[data-testid="stDownloadButton"] > button:first-child {
     background-color: #4ecdc4 !important; /* Cyan/Teal color */
     color: #1e1e2d !important; /* Dark text */
